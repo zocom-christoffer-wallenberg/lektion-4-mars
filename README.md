@@ -12,4 +12,6 @@ UI-tips för utvecklare: https://dev.to/ruppysuppy/5-ui-tips-to-become-a-better-
 
 Grafisk design för utvecklare: https://www.canva.com/learn/graphic-design-tips-non-designers/
 
+Coola text och bakgrundseffekter: https://trishalim.hashnode.dev/css-tricks-to-create-that-dark-futuristic-web3-look?utm_source=tldrnewsletter#heading-blurred-backgrounds-to-create-the-web3-look
+
 ## Videor
